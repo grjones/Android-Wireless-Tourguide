@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Android-Wireless-Tourguide.iml" filepath="$PROJECT_DIR$/Android-Wireless-Tourguide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android Wireless Tourguide.iml" filepath="$PROJECT_DIR$/Android Wireless Tourguide.iml" />
     </modules>
   </component>
 </project>
