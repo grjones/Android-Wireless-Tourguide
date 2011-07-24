@@ -1,0 +1,22 @@
+Android Wireless Tourguide
+
+Android Wireless Tourguide is an Android application that serves as a tour guide based on geolocation.
+
+== Contributors
+
+See CONTRIBUTORS file.
+
+== License
+
+See COPYING file.
+
+=== License and Copyright Information regarding Third-Party Software
+
+==== Dependant
+
+Android Wireless Tourguide is dependant on the following packages. They are known to be compatible with the Android Wireless Tourguide
+license (See COPYING file).
+
+http://www.gnu.org/philosophy/license-list.html#GPLCompatibleLicenses
+
+*Package*            *License*         *Copyright / Creator*
